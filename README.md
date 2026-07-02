@@ -1,4 +1,4 @@
-🌍 Travira
+### 🌍 Travira
 
 Travira is a full-stack travel planning platform developed during a hackathon and currently under active development. It helps users discover destinations, plan trips, and manage travel itineraries through a modern and responsive web application.
 
